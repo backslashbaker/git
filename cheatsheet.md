@@ -12,4 +12,6 @@ git remote add [remote_name] - adds git remote to repo
 git push -u [remote_name] - pushes upstream to remote
 git push - push to the remote
 git pull - pulls from the remote
+echo "# readme" >> readme.md - add x to y file
+git diff - shows changes per file
 
